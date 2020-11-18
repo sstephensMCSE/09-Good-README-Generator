@@ -33,4 +33,4 @@ Run the test after creating the readme file
 ## Questions
 If you have any questions, contact sstephensMCSE on GitHub.
 
-<img src="https://github.com/sstephensMCSE/09-Good-README-Generator/blob/main/assets/sample.jpg" width="500" title="Sample">
+<img src="https://github.com/sstephensMCSE/09-Good-README-Generator/blob/main/assets/sapmle.jpg" width="500" title="Sample">

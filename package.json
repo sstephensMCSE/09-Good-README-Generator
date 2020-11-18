@@ -1,0 +1,28 @@
+{
+  "name": "09-good-readme-generator",
+  "version": "1.0.0",
+  "description": "Using the skills learned in the past week, create a readme generator. This will make life easier by making sure the readme contains all the necessary information for a project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sstephensMCSE/09-Good-README-Generator.git"
+  },
+  "keywords": [
+    "readme",
+    "generator"
+  ],
+  "author": "Sean Stephens",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/sstephensMCSE/09-Good-README-Generator/issues"
+  },
+  "homepage": "https://github.com/sstephensMCSE/09-Good-README-Generator#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "inquirer": "^7.3.3",
+    "util": "^0.12.3"
+  }
+}

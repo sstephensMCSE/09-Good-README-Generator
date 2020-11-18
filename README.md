@@ -1,41 +1,46 @@
 
-# Title: Unit 09 Node.js and ES6+ Homework: Good README Generator
-
-## Description: 
-Using the skills learned in the past week, create a readme generator. This will make life easier by making sure the readme contains all the necessary information for a project. 
-
----
-
-## Table of Contents
-1. [Example](#example)
-1. [Installation](#Installation)
-2. [Usage](#Usage)
-3. [License](#License)
-4. [Contributor](#Contributor)
-5. [Tests](#Tests)
-6. [Questions](#Questions)
-
-
-## Installation
-`
-npm install
-`
-
-## Usage
-`
-node index.js
-`
-
-## License
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
-
-
-## Contributor
-Sean Stephens
-
-## Tests
-
-
-## Questions
-for any questions please contact: https://github.com/sstephensMCSE
-
+  # Project Title : Generate a README file 
+  ## Project Description:
+  undefined
+  ## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Test](#test)
+  * [Questions](#questions)
+  * [License](#license)
+  * [Author] (#Author)
+  * [Badges](#badges)
+  ## Installation
+  undefined
+  ## Usage
+  
+  ## Contributors
+  undefined
+  ## Test
+  undefined
+  ## Questions
+  If you have any questions, contact sstephensMCSE on GitHub.
+  ## License
+  MIT License
+  Copyright (c) [year] [fullname]
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+  The above copyright notice and this permission notice shall be included in all
+  copies or substantial portions of the Software.
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  SOFTWARE.
+  ## Author 
+  ![GitHub profile pic](undefined)
+  ## Badges
+  ![badmath](https://img.shields.io/github/repo-size/sstephensMCSE/09-Good-README-Generator)
+  

@@ -13,10 +13,12 @@ Using the skills learned in the past week, create a readme generator. This will 
 
 ## Installation
 install node.js, run npm init, run npm i.
+
 <img src="https://github.com/sstephensMCSE/09-Good-README-Generator/blob/main/assets/install.gif" width="500" title="Example">
 
 ## Usage
 only as directed by your class instructor
+
 <img src="https://github.com/sstephensMCSE/09-Good-README-Generator/blob/main/assets/example.gif" width="500" title="Example">
 
 ## License
@@ -31,4 +33,4 @@ Run the test after creating the readme file
 ## Questions
 If you have any questions, contact sstephensMCSE on GitHub.
 
-<img src="https://github.com/sstephensMCSE/09-Good-README-Generator/blob/main/assets/sample.gif" width="500" title="Sample">
+<img src="https://github.com/sstephensMCSE/09-Good-README-Generator/blob/main/assets/sample.jpg" width="500" title="Sample">

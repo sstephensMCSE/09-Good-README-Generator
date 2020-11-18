@@ -33,12 +33,14 @@ const questions = [
         message: "Enter the usage directions:"
     },
     {
+        type: "list",
         name: "license",
-        message: "Enter the license:"
+        message: "Select license type:",
+        choices: ["Public","Creative Commons","Mozilla Public License","The Unlicense"]
     },
     {
         name: "contibutors",
-        message: "Enter the contibutors:"
+        message: "Enter the project contibutors names:"
     },
     {
         name: "tests",

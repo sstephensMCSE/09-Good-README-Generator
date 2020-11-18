@@ -1,46 +1,33 @@
 
-  # Project Title : Generate a README file 
+  # Project Title : Unit 09 Node.js and ES6+ Homework: Good README Generator
+
   ## Project Description:
-  undefined
+  Using the skills learned in the past week, create a readme generator. This will make life easier by making sure the readme contains all the necessary information for a project. 
+  
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Contributing](#contributing)
-  * [Test](#test)
-  * [Questions](#questions)
   * [License](#license)
-  * [Author] (#Author)
-  * [Badges](#badges)
+  * [Contributors](#Contributors)
+  * [Tests](#tests)
+  * [Questions](#questions)
+
   ## Installation
-  undefined
+  install node.js, run npm init, run npm i.
+  
   ## Usage
+  only as directed by your class instructor
+
+  ## License
+  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
   
   ## Contributors
-  undefined
-  ## Test
-  undefined
+  Sean Stephens
+
+  ## Tests
+  Run the test after creating the readme file
+
   ## Questions
   If you have any questions, contact sstephensMCSE on GitHub.
-  ## License
-  MIT License
-  Copyright (c) [year] [fullname]
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to deal
-  in the Software without restriction, including without limitation the rights
-  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-  copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-  The above copyright notice and this permission notice shall be included in all
-  copies or substantial portions of the Software.
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-  SOFTWARE.
-  ## Author 
-  ![GitHub profile pic](undefined)
-  ## Badges
-  ![badmath](https://img.shields.io/github/repo-size/sstephensMCSE/09-Good-README-Generator)
+ 
   
